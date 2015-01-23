@@ -1,0 +1,16 @@
+{
+  "name": "Tommy-Parnell",
+  "version": "0.0.0",
+  "description": "Resume",
+  "main": "app.js",
+  "author": {
+    "name": "sedouard",
+    "email": ""
+  },
+  "scripts" : {
+	"test": "node ./node_modules/resume-cli/index.js export index -f html"
+  },
+  "dependencies": {
+    "resume-cli": "^0.3.10"
+  }
+}

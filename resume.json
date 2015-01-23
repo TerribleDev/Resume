@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Tommy Parnell",
+    "label": "Software Engineer",
+    "picture": "https://avatars0.githubusercontent.com/u/3459800?v=3&s=460",
+    "email": "tparnell8@gmail.com",
+    "phone": "(603)988-8441",
+    "website": "http://blog.tommyparnell.com",
+    "summary": "My name is Tommy Parnell, I have a bachelors degree from Southern New Hampshire University. I am currently working for vistaprint.com as a Software Engineer. Before I was a software engineer, I was a sysadmin.",
+    "location": {
+      "address": "1495 bodwell rd #6 ",
+      "postalCode": "03109",
+      "city": "Manchester",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "terribledev",
+        "url": "https://twitter.com/TerribleDev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Vistaprint.com",
+      "position": "Software Engineer",
+      "website": "http://vistaprint.com",
+      "startDate": "2015-01-01",
+      "summary": "I work on the gallery team at Vistaprint. We own anthing that could be a gallery, and the search engine.",
+      "highlights": [
+        "Contributor to a very large C# web platform"
+      ]
+    },
+    {
+      "company": "Vistaprint.com",
+      "position": "Lead Systems Administrator",
+      "website": "vistaprint.com",
+      "startDate": "2011-05-01",
+      "endDate": "2015-01-01",
+      "summary": "Technical lead for the team responsible for monitoring our website.",
+      "highlights": [
+        "Wrote and maintained a custom monitoring platform written in C#",
+        "Wrote our own version of pagerduty in C#"
+      ]
+    },
+    {
+      "company": "Salem School District",
+      "position": "IT Network Tech",
+      "website": "",
+      "startDate": "2010-07-01",
+      "endDate": "2011-04-01",
+      "summary": "Work on everything from helpdesk to our vmware cluster.",
+      "highlights": []
+    },
+    {
+      "company": "Somersworth School District",
+      "position": "IT Network Tech.",
+      "website": "",
+      "startDate": "2007-06-01",
+      "endDate": "2009-11-01",
+      "summary": "Provided autonomous helpdesk support.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Southern New Hampshire University",
+      "area": "B.S.",
+      "studyType": "Information Technology",
+      "startDate": "2010-01-01",
+      "endDate": "2014-08-01",
+      "gpa": "3.79",
+      "courses": [
+        "Discrete Mathematics",
+        "Strategic Management and Policy",
+        "Database Design and Management",
+        "Object Oriented Analysis/Design"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Software Languages",
+      "level": "Master",
+      "keywords": [
+        "C# ",
+        "JavaScript",
+        "Ruby",
+        "SQL"
+      ]
+    },
+    {
+      "name": "CI Tools",
+      "level": "Master",
+      "keywords": [
+        "Vagrant",
+        "Puppet",
+        "Jenkins",
+        "Artifactory",
+        "Azure",
+        "AWS/EC2"
+      ]
+    },
+    {
+      "name": "Software Platforms",
+      "level": "Master",
+      "keywords": [
+        "Xamarin",
+        "MVC 5",
+        "NancyFx",
+        "Express.js",
+        "Node.js"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Guitar",
+        "Cello",
+        "Piano"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Raghu Venkatesh",
+      "reference": "Tommy is smart, motivated and committed to his priorities and goals. He is eager to learn new tecnologies/standards and also works towards suggestions and implementations for best practices. He has displayed expertise in .NET development and has contributed in different tools that we used on daily basis. "
+    },
+    {
+      "name": "Irwin Bramson",
+      "reference": "I have known Tommy Parnell over the period of several years while he was a student at SNHU. He took several mathematics courses with me and I did get to know him extremely well. I have very vivid recollections of him. This young man is exceptionally bright, articulate, and a pleasure to have in class. He is extremely helpful as a student who followed my lectures effortlessly and occasionally corrected my mistakes. He is very friendly, well respected by his peers, and does not hesitate to help someone struggling with a mathematical concept that he can explain well."
+    }
+  ]
+}
