@@ -1,3 +1,3 @@
 ## My resume
 
-this is hosted on azure. Azure listens on edits and auto updates
+this is hosted [here](http://tparnellresume.azurewebsites.net/) on azure. Azure listens on edits and auto updates
