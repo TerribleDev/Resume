@@ -81,7 +81,38 @@
       ]
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "MSFT Technology Associate (.NET Fundamentals 98-372)",
+      "date": "2014-04-01",
+      "awarder": "Microsoft",
+      "summary": "Covers JIT compilation, OO design with .NET and the BCL "
+    },
+    {
+      "title": "Fiber Optic Technician",
+      "date": "2010-01-01",
+      "awarder": "Fiber Optic Association",
+      "summary": "Basics of fiber cabling, and design."
+    },
+    {
+      "title": "Certified Fiber Optic Specialist /H (CFxT)",
+      "date": "2010-01-01",
+      "awarder": "Fiber Optic Association",
+      "summary": "Specializing in Last mile fiber architecture."
+    },
+    {
+      "title": "Certified Premises Cabling Technician (CPCT)",
+      "date": "2010-01-01",
+      "awarder": "Fiber Optic Association",
+      "summary": "Certification covering fiber on premises.  "
+    },
+    {
+      "title": "Advanced Fiber Optics Technician (AFOT)",
+      "date": "2010-01-01",
+      "awarder": "Fiber Optic Association",
+      "summary": "Advanced Fiber topics include Fusion Splicing, Architecting major fiber roll-outs, Optical Time Delay Reflectors "
+    }
+  ],
   "publications": [],
   "skills": [
     {
