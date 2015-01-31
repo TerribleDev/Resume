@@ -163,6 +163,16 @@
         "Cello",
         "Piano"
       ]
+    },
+    {
+      "name": "Cloud Compute",
+      "keywords": [
+        "Azure"
+      ]
+    },
+    {
+      "name": "Responsive Web Design",
+      "keywords": []
     }
   ],
   "references": [
