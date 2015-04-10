@@ -39,10 +39,11 @@
       "website": "vistaprint.com",
       "startDate": "2011-05-01",
       "endDate": "2015-01-01",
-      "summary": "Technical lead for the team responsible for monitoring our website.",
+      "summary": "DevOps Engineer, Technical lead for our monitoring team.",
       "highlights": [
         "Wrote and maintained a custom monitoring platform written in C#",
-        "Wrote our own version of pagerduty in C#"
+        "Wrote our own version of pagerduty in C#",
+        "Created tooling to support the uptime of our infrastructure"
       ]
     },
     {
