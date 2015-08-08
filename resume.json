@@ -152,6 +152,9 @@
         "Xamarin",
         "MVC 5",
         "NancyFx",
+        "Rake",
+        "Puppet",
+        "Chef",
         "Express.js",
         "Node.js"
       ]
