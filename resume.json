@@ -84,6 +84,12 @@
   ],
   "awards": [
     {
+      "title": "C# Specialist (Programming in c# 70-483))",
+      "date": "2015-05-10",
+      "awarder": "Microsoft",
+      "summary": "Covers advanced topics with c# such as the TPL, Diagnostics, Data access, Security and Eventing"
+    },
+    {
       "title": "MSFT Technology Associate (.NET Fundamentals 98-372)",
       "date": "2014-04-01",
       "awarder": "Microsoft",
