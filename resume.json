@@ -25,6 +25,16 @@
   "work": [
     {
       "company": "Vistaprint.com",
+      "position": "Software Engineer II",
+      "website": "http://vistaprint.com",
+      "startDate": "2015-01-01",
+      "summary": "I work on the gallery team at Vistaprint. We own anthing that could be a gallery, and keyword search.",
+      "highlights": [
+        "Built on React.js, ES6, and Backbone events. I worked on our very client side heavy SPA. The voted build engineer for our team, I also created many Chef cookbooks for OpsWork, EBDeploy rake tasks, javascript grunt tasks, and tooling to manage our ElasticBeanstalk environments."
+      ]
+    },
+    {
+      "company": "Vistaprint.com",
       "position": "Software Engineer",
       "website": "http://vistaprint.com",
       "startDate": "2015-01-01",
