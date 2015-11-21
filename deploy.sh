@@ -1,5 +1,5 @@
 #!/bin/bash
-rm -rf .git
+rm -rf ./.git
 git config user.email "tparnell8@gmail.com"
 git config user.name "Tommy Parnell"
 git init

@@ -10,3 +10,6 @@ deployment:
 test:
   override:
     - node ./node_modules/resume-cli/index.js export index -f html --theme elegant
+dependencies:
+  cache_directories:
+    - "node_modules"    # relative to the build directory
