@@ -5,4 +5,4 @@ git config user.name "Tommy Parnell"
 git init
 git add .
 git commit -m "Deployed to Github Pages"
-git push --force --quiet "git@github.com:tparnell8/Resume.git" master:gh-pages > /dev/null 2>&1
+git push --force "git@github.com:tparnell8/Resume.git" master:gh-pages
