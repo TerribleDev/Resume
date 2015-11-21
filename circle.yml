@@ -6,7 +6,7 @@ deployment:
   production:
     branch: master
     commands:
-      - ./deploy.sh
+      - sh ./deploy.sh
 test:
   override:
     - node ./node_modules/resume-cli/index.js export index -f html --theme elegant
