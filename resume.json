@@ -6,7 +6,7 @@
     "email": "tparnell8@gmail.com",
     "phone": "(603) 988-8441",
     "website": "http://blog.terribledev.io",
-    "summary": "My name is Tommy Parnell, I have a bachelors degree from Southern New Hampshire University. I am currently working for vistaprint.com as a Software Engineer.",
+    "summary": "My name is Tommy Parnell, I have a bachelors degree from Southern New Hampshire University. I am currently working for vistaprint.com as a Software Engineer. My current interest is with nodejs, dotnet core, and docker",
     "location": {
       "address": "",
       "postalCode": "03060",
@@ -158,6 +158,7 @@
       "keywords": [
         "Xamarin",
         "MVC 5",
+        "MVC Core 1.0",
         "NancyFx",
         "Rake",
         "Puppet",
