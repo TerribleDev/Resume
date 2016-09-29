@@ -185,7 +185,11 @@
     {
       "name": "Cloud Compute",
       "keywords": [
-        "Azure"
+        "Azure",
+        "AWS",
+        "Rackspace",
+        "Linode",
+        "Digital Ocean"
       ]
     },
     {
