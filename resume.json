@@ -19,6 +19,11 @@
         "network": "Twitter",
         "username": "terribledev",
         "url": "https://twitter.com/TerribleDev"
+      }, 
+      {
+        "network": "github",
+        "username": "terribledev",
+        "url": "https://github.com/TerribleDev"
       }
     ]
   },
