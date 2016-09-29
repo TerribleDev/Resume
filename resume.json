@@ -6,7 +6,7 @@
     "email": "tparnell8@gmail.com",
     "phone": "(603) 988-8441",
     "website": "http://blog.terribledev.io",
-    "summary": "My name is Tommy Parnell, I have a bachelors degree from Southern New Hampshire University. I am currently working for vistaprint.com as a Software Engineer. I love solving huge web problems. On my spare time I enjoy playing music",
+    "summary": "My name is Tommy Parnell, I have a bachelors degree from Southern New Hampshire University. I am currently working for vistaprint.com as a Software Engineer.",
     "location": {
       "address": "",
       "postalCode": "03060",
@@ -28,9 +28,9 @@
       "position": "Software Engineer II",
       "website": "http://vistaprint.com",
       "startDate": "2015-01-01",
-      "summary": "I work on the gallery team at Vistaprint. We own anthing that could be a gallery, and keyword search.",
+      "summary": "I work on the gallery team at Vistaprint. We own anything that could be a gallery, and keyword search.",
       "highlights": [
-        "Built on React.js, ES6, and Backbone events. I worked on our very client side heavy SPA. The voted build engineer for our team, I also created many puppet modules, javascript grunt tasks, and tooling to manage our Autoscaled EC2 environments. I wrote a custom Blue-Green deployment tool for AWS"
+        "Built on React.js, ES6, and Backbone events. I worked on our very client side heavy SPA. I also created many puppet modules, javascript gulp tasks, docker images, and tooling to manage our Autoscaled EC2 environments."
       ]
     },
     {
@@ -142,7 +142,8 @@
         "Jenkins",
         "Artifactory",
         "Azure",
-        "AWS/EC2"
+        "AWS/EC2",
+        "Docker"
       ]
     },
     {
