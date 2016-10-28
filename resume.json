@@ -164,7 +164,8 @@
         "Puppet",
         "Chef",
         "Express.js",
-        "Node.js"
+        "Node.js",
+        "Sails.js"
       ]
     }
   ],
