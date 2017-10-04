@@ -35,7 +35,8 @@
       "startDate": "2015-01-01",
       "summary": "I work on the gallery team at Vistaprint. We own anything that could be a gallery, and keyword search.",
       "highlights": [
-        "Built on React.js, ES6, and Backbone events. I worked on our very client side heavy SPA. I also created many puppet modules, javascript gulp tasks, docker images, and tooling to manage our Autoscaled EC2 environments."
+        "Built on React.js, ES6, and Redux. I worked on our very client side heavy SPA.",
+        "I lead the charge on our transition to the cloud brining in Terraform and Docker for our microservices, and utilizing Puppet, and Packer for our non-dockerized systems"
       ]
     },
     {
