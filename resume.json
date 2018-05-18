@@ -48,7 +48,7 @@
       "website": "vistaprint.com",
       "startDate": "2011-05-01",
       "endDate": "2015-01-01",
-      "summary": "DevOps Engineer, Technical lead for our monitoring team. I was responsible for monitoring Vistaprint's globally geo-distributed infrastructure. ",
+      "summary": "DevOps Engineer, Technical lead for our monitoring team. I was responsible for monitoring Vistaprint's globally distributed infrastructure. ",
       "highlights": [
         "Wrote and maintained a custom monitoring platform written in C#",
         "Wrote our own version of pagerduty in C#",
