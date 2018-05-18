@@ -39,7 +39,7 @@
         "Maintained and improved our dotnet, and dotnet core based backends.",
         "I was part of an effort to reduce our page load time on average by 2 seconds. I rewrote, and optimized many slow functions",
         "I lead the charge on our transition to the cloud brining in Terraform and Docker for our microservices, and utilizing Puppet, and Packer for our non-dockerized systems",
-        "I championed configuration as code for our cloud accounts. All of our infrastructure from jenkins jobs, to cloud infrastrucutre was defined with code."
+        "I championed configuration as code for our cloud accounts. All of our infrastructure from jenkins jobs, to cloud infrastructure was defined with code."
       ]
     },
     {
