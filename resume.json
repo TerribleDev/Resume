@@ -33,7 +33,7 @@
       "position": "Software Engineer II",
       "website": "http://vistaprint.com",
       "startDate": "2015-01-01",
-      "summary": "I work on the gallery team at Vistaprint. We built a platform where designers could create content with multi-hierarchical filterable dimensions. ",
+      "summary": "I work on the gallery team at Vistaprint. We built a platform where designers can create discoverable content with multi-hierarchical filterable dimensions. ",
       "highlights": [
         "Built on React.js, ES6, and Redux. I worked on our very client side heavy SPA.",
         "Maintained and improved our dotnet, and dotnet core based backends.",
