@@ -33,11 +33,13 @@
       "position": "Software Engineer II",
       "website": "http://vistaprint.com",
       "startDate": "2015-01-01",
-      "summary": "I work on the gallery team at Vistaprint. We own anything that could be a gallery, and keyword search.",
+      "summary": "I work on the gallery team at Vistaprint. We built a platform where designers could create content with multi-hierarchical filterable dimensions. ",
       "highlights": [
         "Built on React.js, ES6, and Redux. I worked on our very client side heavy SPA.",
-        "Maintained and improved our dotnet, and dotnet core based backends",
-        "I lead the charge on our transition to the cloud brining in Terraform and Docker for our microservices, and utilizing Puppet, and Packer for our non-dockerized systems"
+        "Maintained and improved our dotnet, and dotnet core based backends.",
+        "I was part of an effort to reduce our page load time on average by 3 seconds. I rewrote, and optimized many slow functions",
+        "I lead the charge on our transition to the cloud brining in Terraform and Docker for our microservices, and utilizing Puppet, and Packer for our non-dockerized systems",
+        "I championed configuration as code for our cloud accounts. All of our infrastructure from jenkins jobs, to cloud infrastrucutre was defined with code."
       ]
     },
     {
@@ -46,11 +48,12 @@
       "website": "vistaprint.com",
       "startDate": "2011-05-01",
       "endDate": "2015-01-01",
-      "summary": "DevOps Engineer, Technical lead for our monitoring team.",
+      "summary": "DevOps Engineer, Technical lead for our monitoring team. I was responsible for monitoring Vistaprint's globally geo-distributed infrastructure. ",
       "highlights": [
         "Wrote and maintained a custom monitoring platform written in C#",
         "Wrote our own version of pagerduty in C#",
-        "Created tooling to support the uptime of our infrastructure"
+        "Created tooling to support the uptime of our infrastructure",
+        "Built tools and processes to aid in our efforts of triaging large problems"
       ]
     },
     {
@@ -131,19 +134,18 @@
   "skills": [
     {
       "name": "Software Languages",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "C# ",
         "JavaScript",
-        "Dart",
         "Ruby",
         "Go",
-        "SQL"
+        "MS SQL"
       ]
     },
     {
       "name": "CI Tools",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "Vagrant",
         "Puppet",
@@ -156,7 +158,7 @@
     },
     {
       "name": "Software Platforms",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "Xamarin",
         "MVC 5",
@@ -182,7 +184,6 @@
       "name": "Music",
       "keywords": [
         "Guitar",
-        "Cello",
         "Piano"
       ]
     },

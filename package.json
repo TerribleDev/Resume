@@ -7,10 +7,12 @@
     "name": "sedouard",
     "email": ""
   },
-  "scripts" : {
-	"test": "node ./node_modules/resume-cli/index.js export index -f html"
+  "scripts": {
+    "test": "node ./node_modules/resume-cli/index.js export index -f html",
+    "build": "resume export index -f html --theme elegant"
   },
   "dependencies": {
-    "resume-cli": "^0.4.13"
+    "jsonresume-theme-elegant": "^1.11.2",
+    "resume-cli": "^0.4.19"
   }
 }
