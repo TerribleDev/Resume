@@ -140,7 +140,8 @@
         "JavaScript",
         "Ruby",
         "Go",
-        "MS SQL"
+        "MS SQL",
+        "typescript"
       ]
     },
     {
@@ -162,7 +163,7 @@
       "keywords": [
         "Xamarin",
         "MVC 5",
-        "MVC Core 1.0",
+        "Dotnet core",
         "NancyFx",
         "Rake",
         "Puppet",
