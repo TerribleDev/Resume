@@ -9,10 +9,13 @@
   },
   "scripts": {
     "test": "node ./node_modules/resume-cli/index.js export index -f html",
-    "build": "resume export index -f html --theme elegant"
+    "build": "resume export index -f html --theme flat"
   },
   "dependencies": {
     "jsonresume-theme-elegant": "^1.11.2",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-modern": "0.0.18",
+    "jsonresume-theme-paper": "^0.3.5",
     "resume-cli": "^0.4.19"
   }
 }
